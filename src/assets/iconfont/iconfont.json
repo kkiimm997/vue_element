@@ -1,0 +1,23 @@
+{
+  "id": "2318807",
+  "name": "elementui后台管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1026172",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "1225660",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    }
+  ]
+}
